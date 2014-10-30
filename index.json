@@ -1,0 +1,110 @@
+{
+  "name": "cite-csl-traits",
+  "version": "0.1.0",
+  "properties": {
+    "title": {
+      "csl": "title",
+      "citeac": "title"
+    },
+    "author": {
+      "csl": "author",
+      "citeac": "author"
+    },
+    "chapter": {
+      "csl": "chapter-number",
+      "citeac": "chapter"
+    },
+    "date_accessed": {
+      "csl": "issued",
+      "citeac": "dateAccessed"
+    },
+    "date_published": {
+      "csl": "issued",
+      "citeac": "datePublished"
+    },
+    "doi": {
+      "csl": "DOI",
+      "citeac": "doi"
+    },
+    "director": {
+      "csl": "director",
+      "citeac": "director"
+    },
+    "edition": {
+      "csl": "edition",
+      "citeac": "edition"
+    },
+    "editor": {
+      "csl": "editor",
+      "citeac": "editor"
+    },
+    "interviewer": {
+      "csl": "interviewer",
+      "citeac": "interviewer"
+    },
+    "issue": {
+      "csl": "issue",
+      "citeac": "issue"
+    },
+    "location": {
+      "csl": "location",
+      "citeac": "publisher-place"
+    },
+    "page": {
+      "csl": "page",
+      "citeac": "page"
+    },
+    "publisher": {
+      "csl": "publisher",
+      "citeac": "publisher"
+    },
+    "reference_number": {
+      "csl": "number",
+      "citeac": "referenceNo"
+    },
+    "volume": {
+      "csl": "volume",
+      "citeac": "volume"
+    },
+    "recipient_name": {
+      "csl": "recipient",
+      "citeac": "recipientName"
+    },
+    "isbn": {
+      "csl": "ISBN",
+      "citeac": "isbn"
+    },
+    "issn": {
+      "csl": "ISSN",
+      "citeac": "issn"
+    },
+    "version": {
+      "csl": "version",
+      "citeac": "version"
+    },
+    "url": {
+      "csl": "URL",
+      "citeac": "url"
+    },
+    "translator": {
+      "csl": "translator",
+      "citeac": "translator"
+    },
+    "source_title": {
+      "csl": "original-title",
+      "citeac": "sourceTitle"
+    },
+    "source_publisher": {
+      "csl": "original-publisher",
+      "citeac": "sourcePublisher"
+    },
+    "source_location": {
+      "csl": "original-publisher-place",
+      "citeac": "sourceLocation"
+    },
+    "source_author": {
+      "csl": "container-author",
+      "citeac": "sourceAuthor"
+    }
+  }
+}
